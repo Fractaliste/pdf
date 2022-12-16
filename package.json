@@ -1,0 +1,16 @@
+{
+  "name": "merge_pdf",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.11.6",
+    "pdf-lib": "^1.17.0"
+  }
+}
